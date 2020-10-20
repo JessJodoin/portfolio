@@ -1,3 +1,24 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  font_url: "https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+  title: Jess Jodoin Design
+  description: |
+    A portfolio website for my personal brand. This is to showcase my best design work and all the skills I have learned.
+  colors:
+    sidebar: "--color-primary-light"
+  rationales:
+    typefaces.primary: |
+      Montserrat was selected becasue it's a bold, clean font. Montserrat is to be used for headings with varying weights and case.
+    typefaces.secondary: |
+      Cardo was selected as it was a nice, readable typeface that pairs well with Montserrat. Cardo is to be used for all body copy text throughout the website.
+    colors.primary: |
+      The primary colours were chosen to complement the bright secondary colours. They should be used for the text and in backgrounds.
+    colors.secondary: |
+      The secondary colours are more vibrant and bright, and should be used for buttons and in some hover situations.
+
+      The red should also be used in alert situation such as error messages on form fields.
+    colors.accent: |
+      The accent colour is a darker version of a primary colour. It should be used to accent some elements such as form fields.
