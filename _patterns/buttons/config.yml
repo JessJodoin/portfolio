@@ -1,0 +1,51 @@
+title: "Buttons"
+description: |
+  Buttons should be used in situations where a dramrtic, obvious action is required.
+  Try not to overuse buttons because they should be the primary call-to-action for a screen.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      Default to using the basic button. It should be used in front of light backgounds.
+    width: "12em"
+    fields:
+      - name: title
+        type: string
+        example: "Get in touch!"
+      - name: url
+        type: url
+        example: "/contact/"
+  ghost:
+    title: "Ghost"
+    description: |
+      The ghost button is specifically for banners or cards, where it will be placed in front of busy images.
+    width: "12em"
+    fields:
+      - name: title
+        type: string
+        example: "Get in touch!"
+      - name: url
+        type: url
+        example: "/contact/"
+  light:
+    title: "Light"
+    description: |
+      The light button should be used in front of dark backgounds.
+    width: "12em"
+    fields:
+      - name: title
+        type: string
+        example: "Get in touch!"
+      - name: url
+        type: url
+        example: "/contact/"
+  submit:
+      title: "Submit Button"
+      description: |
+        The submit button should only be used in situations where a form is being submitted.
+      width: "12em"
+      fields:
+        - name: title
+          type: string
+          example: "Submit"
