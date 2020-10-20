@@ -1,0 +1,33 @@
+<footer class="footer">
+  <div>
+    <ul class="footer-links-social">
+      <li>
+        <a href="https://www.instagram.com/jessjodoindesign/" aria-details="Check out my Instagram">
+          <i>
+            <svg class="icon i-24 social-icons"><use xlink:href="/images/icons.svg#instagram" /></svg>
+          </i>
+        </a>
+      </li>
+
+      <li>
+        <a href="https://www.behance.net/jessicajodoin" aria-details="Check out my Behance">
+          <i>
+            <svg class="icon i-24 social-icons"><use xlink:href="/images/icons.svg#behance" /></svg>
+          </i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <nav class="footer-nav">
+    <ul class="footer-links">
+      <li><a class="{% if page.highlight_nav == 'home' %}current{% endif %}" href="/">Home</a></li>
+
+      <li><a class="{% if page.highlight_nav == 'about' %}current{% endif %}" href="/about/">About</a></li>
+
+      <li><a class="{% if page.highlight_nav == 'contact' %}current{% endif %}" href="/contact/">Contact</a></li>
+    </ul>
+  </nav>
+
+  <small class="copyright nano">&copy; Jess Jodoin</small>
+</footer>
