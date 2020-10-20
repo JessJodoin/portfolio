@@ -8,7 +8,7 @@
 .footer-links {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-content: center;
   max-width: 25em;
   margin: 0 auto;
