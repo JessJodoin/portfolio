@@ -1,0 +1,54 @@
+title: "Banners"
+description: |
+  Banners are used to delineate the various sections, call-to-actions, and decorative banners used throughout the website.
+
+patterns:
+  main-banner:
+    title: "Main Banner"
+    description: |
+      The main banner is used to at the top of the main page on the website. For this banner, no image is to be used.
+  about-banner:
+    title: "About Banner"
+    description: |
+      The about banner is used to at the top of the about page on the website. For this banner, no image is to be used.
+    fields:
+      - name: title
+        type: string
+        example: "About"
+      - name: text
+        type: string
+        example: "creating designs that engage the right people."
+  contact-banner:
+    title: "Contact Banner"
+    description: |
+      The contact banner is used to at the top of the contact page. For this banner, no image is to be used.
+    fields:
+      - name: heading
+        type: string
+        example: "Freelance bookings available"
+  project-piece-banner:
+    title: "Case Study Banner"
+    description: |
+      The case study banner should be used at the top of each case study page on the website. For this banner, no image is to be used.
+    fields:
+      - name: projecttype
+        type: string
+        example: "Web"
+      - name: projecttitle
+        type: string
+        example: "Animal Rescue Website Redo"
+      - name: timeframe
+        type: string
+        example: "6 weeks"
+  img-banner:
+    title: "Image Banner"
+    description: |
+      The image banner should only be used on pages that don't have a banner above the footer (contact banner). It should sit above the footer.
+  call-to-action:
+    title: "Call to Action Banner"
+    description: |
+      The call to action banner is used to encourage interaction. In this case, it will be used for contacting about freelance opportunities.
+    fields:
+      - name: content
+        type: string
+        example: "You've seen my work, let's hear about yours."
