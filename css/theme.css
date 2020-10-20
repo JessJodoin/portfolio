@@ -1,0 +1,71 @@
+:root {
+  --color-primary: #2f3540;
+  --color-primary-light: #f2ede4;
+  --color-secondary: #94d2d4;
+  --color-secondary-bright: #f66256;
+  --color-accent: #d9d1c7;
+
+  --font-primary: Montserrat, Verdana, sans-serif;
+  --font-secondary: Cardo, Times, serif;
+}
+
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+
+  font-family: var(--font-secondary);
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-primary);
+}
+
+a {
+  color: var(--color-primary);
+}
+
+a:hover {
+  color: var(--color-secondary-bright);
+}
+
+ul {
+  list-style-type: url("/images/icons.svg#bullet");
+}
+
+ul > li::before {
+  display: none;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+ol > li::before {
+  display: none;
+}
+
+mark {
+  background-color: var(--color-secondary);
+}
+
+hr {
+  border-color: var(--color-accent);
+}
