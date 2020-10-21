@@ -27,6 +27,9 @@ patterns:
         - name: placeholder
           type: string
           example: "First Name"
+        - name: name
+          type: string
+          example: "name"
   required-textarea:
     title: "Basic Required Textarea Field"
     description: |
