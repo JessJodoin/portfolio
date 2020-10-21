@@ -80,7 +80,7 @@ fieldset {
 
 [placeholder] {
   color: var(--color-accent);
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
 }
 
 .form-title {
