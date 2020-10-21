@@ -2,63 +2,62 @@
 project-type: "Typography"
 project-title: "OIAF Posterzine"
 timeframe: "3 weeks"
-mockup-1: "/images/ecomm-website-mockup-2.jpg"
+mockup-1: "/images/oiaf-posterzine-mockup-1.jpg"
 mockup1-alt: |
-  This is a mockup image of the Pew Pew eCommerce website on small screens. The background is light, and neutral.
+  This is a mockup image of the poster side of the Ottawa International Animation Festival posterzine.
 mockup1-aria: |
-  This is a mockup image of the Pew Pew eCommerce website on small screens. The background is light, and neutral.
+  This is a mockup image of the poster side of the Ottawa International Animation Festival posterzine.
 project-description1: |
-  For this project, we were to create an eCommerce website for a fictitious company, that we got to make up ourselves. I decided to create a website for a Star Wars themed apparel company that I named Pew Pew (y’know… like a blaster).
+  The Ottawa International Animation Festival (OIAF) is a yearly festival to showcase cool and interesting animation. They recently celebrated their 40th anniversary, and were wanting to create a design for the festival celebration.
 project-description2: |
-  The website included all Star Wars themed products, from clothing and apparel to stickers and mugs.
+  To do so, OIAF is looking for a fun posterzine that showcases the festival and all the films being shown. The posterzine will consist of a 22” x 17” full-size poster on one side, and a brochure with festival information and featured films on the other side. This would all fold up into a brochure that when fully opened, will show the poster on the back.
 deliverables:
-  - "Pattern library, and a website with a home page, a shop page, separate products pages, a sale page, a page with legal information, and a checkout page"
-  - "Product illustrations, icons, and logo"
+  - "Illustrations and layout design"
+  - "22” x 17” posterzine (double-sided)"
 goals: |
-  My goals were to create a fun Star Wars themed website, that showcases the products well and creates foot-traffic to the eCommerce store. I also wanted to make use of my knowledge of JavaScript to make the website be responsive at all screen sizes.
-progress-1: "/images/ecomm-website-site-map.png"
+  My goals were to create an eye-catching poster that would interest people to look at, and have them flip through the posterzine, learn more about the festival, and decide to buy a pass.
+progress-1: "/images/oiaf-posterzine-progress-1.png"
 progress1-alt: |
-  This is an image of the site map for the Pew Pew website.
+  This is an image of the design progress. This image shows the text found in the posterzine, and how they will be organized and their hierarchy.
 progress1-aria: |
-  This is an image of the site map for the Pew Pew website.
-progress-2: "/images/ecomm-website-logo.png"
+  This is an image of the design progress. This image shows the text found in the posterzine, and how they will be organized and their hierarchy.
+progress-2: "/images/oiaf-posterzine-progress-2.png"
 progress2-alt: |
-  This is an image of the Pew Pew logo design.
+  This is an image of the process of deciding typographical hierarchy.
 progress2-aria: |
-  This is an image of the Pew Pew logo design.
+  This is an image of the process of deciding typographical hierarchy.
 process1: |
-  To start, (like every project) I started with research. I did a competitive analysis of other apparel sites that would be considered competition. This allowed me to get a better understanding of what was popular in apparel sites, and how to make Pew Pew stand out.
+  First, I started with research to get a feel for OIAF and their brand. I looked at previous posters to see what was typically designed so that I could design something different. Looking through previous posters, I noticed they didn’t stick to one specific style, rather they showcased different designs every year, but they did like weird (which was good for me, I can do weird).
 process2: |
-  I began sketching the webpages necessary for the website. After, I started sketching the logo. I wanted a simple logo that emulated the Star Wars logo to make it more obvious that this store is Star Wars themed. I then moved onto sketching and designing all the products that would be available on the website (there were quite a few, but baby Yoda made it easier!).
+  So with that in mind, I started sketching. I wanted to create an interesting design that centred around the theme of time (because it’s their 40th). After sketching a few layout designs and my illustration and getting approval, I started to build my posterzine.
 process3: |
-  With all my assets completed, it was time to move on to the best part; coding! I started with completing a pattern library explaining all elements, what they are used for, how to use them, and their colour schemes and fonts used. I built each piece (buttons and cards and such) first, and then placed them where they needed to go on each webpage until the site was complete.
-  (https://elated-joliot-4d9f2c.netlify.app)
-sketches-1: "/images/ecomm-website-wireframes-1.png"
+  I picked a dark colour theme that fit well with the design, and picked fonts that were readable and simple to not distract from the main illustration. I used grids to make sure all the pieces lined up nicely and looked clean. And then I added all the illustrations, images, and text into the final posterzine layout.
+sketches-1: "/images/oiaf-posterzine-mindmap.png"
 sketches1-alt: |
-  This in an image of the website wireframes. This is the layout for the home page.
+  This in an image of the mid mapping/research for the OIAF posterzine design.
 sketches1-aria: |
-  This in an image of the website wireframes. This is the layout for the home page.
-sketches-2: "/images/ecomm-website-wireframes-2.png"
+  This in an image of the mid mapping/research for the OIAF posterzine design.
+sketches-2: "/images/oiaf-posterzine-sketches-1.png"
 sketches2-alt: |
-  This in an image of the website wireframes. This is the layout for the general shop page and each product page.
+  This in an image of the first iteration of sketches for the layout design.
 sketches2-aria: |
-  This in an image of the website wireframes. This is the layout for the general shop page and each product page.
-sketches-3: "/images/ecomm-website-wireframes-3.png"
+  This in an image of the first iteration of sketches for the layout design.
+sketches-3: "/images/oiaf-posterzine-sketches-2.png"
 sketches3-alt: |
-  This in an image of the website wireframes. This is the layout for the checkout page.
+  This in an image of the final iteration of sketches for the layout design.
 sketches3-aria: |
-  This in an image of the website wireframes. This is the layout for the checkout page.
+  This in an image of the final iteration of sketches for the layout design.
 challenges:
-  - "There were a lot of moving parts to coding the Pew Pew website, which made it slightly challenging at first to make sure everything was in working order on each page."
+  - "With the limited space on the poster, fitting all the information given and making sure they had good spacing was a challenge."
 final-thoughts: |
-  Though the project, at first, seemed intimidating, I had a lot of fun coding and designing it. I think the project looks good, icons and illustrations are well-done. The design is responsive to all of the screen sizes, and good accessibility standards were used. I think in the future it might be fun to redesign and add more to it (and maybe make it a real site?).
-mockup-2: "/images/ecomm-website-mockup-1.jpg"
+  I think this posterzine turned out very successful. It fully encompasses the interesting brand that is OIAF. The final illustration is also very eye-catching with the contrast of the dark background and light clock face, which would make me want to read the posterzine.
+mockup-2: "/images/oiaf-posterzine-mockup-2.jpg"
 mockup2-alt: |
-  This is a mockup image of the Pew Pew eCommerce website on large screens. The background is light, and neutral.
+  This is a mockup image of the poster side of the OIAF posterzine.
 mockup2-aria: |
-  This is a mockup image of the Pew Pew eCommerce website on large screens. The background is light, and neutral.
-mockup-3: "/images/ecomm-website-mockup-3.jpg"
+  This is a mockup image of the poster side of the OIAF posterzine.
+mockup-3: "/images/oiaf-posterzine-brochure.jpg"
 mockup3-alt: |
-  This is a mockup image of the Pew Pew eCommerce website on medium and small screens. The background is light, and neutral.
+  This is a mockup image of the brochure side of the OIAF posterzine. It shows all section, with the top sections flipped to be readable.
 mockup3-aria: |
-  This is a mockup image of the Pew Pew eCommerce website on medium and small screens. The background is light, and neutral.
+  This is a mockup image of the brochure side of the OIAF posterzine. It shows all section, with the top sections flipped to be readable.
