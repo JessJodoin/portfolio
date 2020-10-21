@@ -1,0 +1,39 @@
+.header {
+  background-color: var(--color-primary-light);
+  padding:  .5rem 1rem 1rem;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-wrapper {
+  align-self: center;
+}
+
+.logo {
+  width: 180px;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .header {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-bottom: 0;
+  }
+
+  .logo-wrapper {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .nav-wrapper {
+    grid-column: 3 / -1;
+    justify-content: flex-end;
+  }
+
+  .logo {
+    width: 110px;
+  }
+
+}

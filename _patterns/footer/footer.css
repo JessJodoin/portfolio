@@ -20,7 +20,7 @@
 
 .footer-nav a {
   color: var(--color-primary-light);
-  font-family: Montserrat, sans-serif;
+  font-family: var(--font-secondary);
   text-decoration: none;
 }
 

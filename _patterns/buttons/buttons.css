@@ -4,7 +4,7 @@
   border-radius: 65px;
   color: var(--color-primary);
   padding: .6rem 1rem;
-  font-family: Montserrat, sans-serif;
+  font-family: var(--font-secondary);
   font-weight: bold;
 }
 

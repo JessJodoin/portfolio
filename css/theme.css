@@ -5,12 +5,12 @@
   --color-secondary-bright: #f66256;
   --color-accent: #d9d1c7;
 
-  --font-primary: Montserrat, Verdana, sans-serif;
-  --font-secondary: Cardo, Times, serif;
+  --font-primary: Cardo, Times, serif;
+  --font-secondary: Montserrat, Verdana, sans-serif;
 }
 
 html {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
 }
 
 h1,
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
 }
 
 h1 {

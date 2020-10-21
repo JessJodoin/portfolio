@@ -1,0 +1,13 @@
+title: "Navigation"
+description: |
+  These are the types of navigations found throughout the site, including the main navigation, as well as the navigation between case study pages.
+
+patterns:
+  header-nav:
+    title: "Header Navigation"
+    description: |
+      This is the main navigation of the website. It should be used on a light background in the header, across the entire site.
+  page-nav:
+    title: "Page Navigation"
+    description: |
+      This is the navigation between the case studies. It should be used on the project piece pages at the bottom of the page.

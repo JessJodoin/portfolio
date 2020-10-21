@@ -23,7 +23,7 @@
 }
 
 .banner-p {
-  font-family: Montserrat, sans-serif;
+  font-family: var(--font-secondary);
   font-weight: normal;
 }
 

@@ -11,9 +11,9 @@ patternbot:
     sidebar: "--color-primary-light"
   rationales:
     typefaces.primary: |
-      Montserrat was selected becasue it's a bold, clean font. Montserrat is to be used for headings with varying weights and case.
-    typefaces.secondary: |
       Cardo was selected as it was a nice, readable typeface that pairs well with Montserrat. Cardo is to be used for all body copy text throughout the website.
+    typefaces.secondary: |
+      Montserrat was selected becasue it's a bold, clean font. Montserrat is to be used for headings with varying weights and case.
     colors.primary: |
       The primary colours were chosen to complement the bright secondary colours. They should be used for the text and in backgrounds.
     colors.secondary: |
