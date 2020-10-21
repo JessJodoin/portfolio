@@ -1,0 +1,6 @@
+<label class="push-1-4" for="{{include.id}}">{{include.title}}</label>
+<input class="form-fields" id="{{include.id}}" name="name" type="{{include.type}}" placeholder="{{include.placeholder}}" required aria-describedby="{{include.error}}">
+<p class="error-message" id="{{include.error}}">
+  <i class="icon i-16"><svg><use xlink:href="/images/icons.svg#warning" /></svg></i>
+  <span class="icon-label">Please provide {{include.details}}</span>
+</p>

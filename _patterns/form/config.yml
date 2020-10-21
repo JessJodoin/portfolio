@@ -1,0 +1,53 @@
+title: "Forms"
+description: |
+  Forms are used in situations with a ‘submit’ button. Each field should have a unique ‘id’ and ‘for’ in the form it is placed.
+
+patterns:
+  required-basic:
+      title: "Basic Required Form Field"
+      description: |
+        This is the basic required form field. It is meant for single lines of text, and should be used for the contact form. This field by default is required and inlcuded an error message when fields are submitted without being filled.
+      width: 38em
+      fields:
+        - name: title
+          type: string
+          example: "First Name"
+        - name: id
+          type: string
+          example: "first-name"
+        - name: details
+          type: string
+          example: "a first name"
+        - name: error
+          type: string
+          example: "first-name-error"
+        - name: type
+          type: string
+          example: "text"
+        - name: placeholder
+          type: string
+          example: "First Name"
+  required-textarea:
+    title: "Basic Required Textarea Field"
+    description: |
+      This is the basic required textarea field. It is meant for multiple lines of text, and should be used for the contact form. This field by default is required and inlcuded an error message when fields are submitted without being filled.
+    width: 38em
+    fields:
+      - name: title
+        type: string
+        example: "Project Description"
+      - name: id
+        type: string
+        example: "project-desc"
+      - name: details
+        type: string
+        example: "details about the project"
+      - name: error
+        type: string
+        example: "project-desc-error"
+      - name: type
+        type: string
+        example: "text"
+      - name: placeholder
+        type: string
+        example: "Tell me about your project..."

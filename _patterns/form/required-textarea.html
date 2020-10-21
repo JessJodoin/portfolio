@@ -1,0 +1,6 @@
+<label class="push-1-4" for="{{include.id}}">{{include.title}}</label>
+<textarea class="form-fields" id="{{include.id}}" rows="8" cols="50" name="comment" placeholder="{{include.placeholder}}" required tabindex="0"></textarea>
+<p class="textarea-error-message" id="{{include.error}}">
+  <i class="icon i-16"><svg><use xlink:href="/images/icons.svg#warning" /></svg></i>
+  <span class="icon-label">Please provide {{include.details}}</span>
+</p>
