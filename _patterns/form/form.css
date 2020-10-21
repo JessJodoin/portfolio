@@ -1,7 +1,9 @@
 .is-validated input:invalid,
 .is-validated select:invalid,
+.is-validated textarea:invalid,
 .is-validated select:invalid + label::before,
 .is-validated input:invalid + label::before,
+.is-validated textarea:invalid + label::before,
 .is-validated:invalid,
 .is-validated:invalid + label::before {
   border-color: var(--color-secondary-bright);
@@ -28,12 +30,16 @@
 .error-message-highlighted {
   background-color: var(--color-secondary-bright);
   color: var(--color-primary-light);
+  margin: 0 0 1.5rem;
+  padding: .5rem;
 }
 
 .is-validated > .error-message:first-child,
 .is-validated > fieldset > .error-message:nth-child(2),
 .is-validated input:invalid + .error-message,
 .is-validated input:invalid + label + .error-message,
+.is-validated textarea:invalid + .error-message,
+.is-validated textarea:invalid + label + .error-message,
 .is-validated:invalid + .error-message,
 .is-validated:invalid + label + .error-message,
 [data-state="invalid"] .error-message {
@@ -64,7 +70,7 @@ textarea {
 
 .form-fields:focus {
   border-radius: 25px;
-  border: 3px solid var(--color-accent);
+  border: 3px solid var(--color-secondary);
   color: var(--color-primary);
 }
 
@@ -72,13 +78,44 @@ fieldset {
   border-top: none;
 }
 
-.select-options:focus {
-  border-radius: 50px;
-  border: 3px solid var(--color-secondary);
-  color: var(--color-primary);
-}
-
 [placeholder] {
   color: var(--color-accent);
   font-family: var(--font-secondary);
+}
+
+.form-title {
+  font-family: var(--font-secondary);
+  font-size: 2rem;
+  font-weight: 300;
+  color: var(--color-primary);
+  margin: 0;
+}
+
+.submit {
+  text-align: center;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 2rem;
+  }
+
+  .phone-form {
+    grid-column: 1 / -1;
+    grid-row: 2 / 3;
+  }
+
+  .email-form {
+    grid-column: 1 / -1;
+    grid-row: 3 / 4;
+  }
+
+  .project-desc-form {
+    grid-column: 1 / -1;
+    grid-row: 4 / 5;
+  }
+
 }

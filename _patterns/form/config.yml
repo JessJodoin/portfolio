@@ -51,3 +51,14 @@ patterns:
       - name: placeholder
         type: string
         example: "Tell me about your project..."
+  warning-fieldset:
+    title: "Warning Fieldset"
+    description: |
+      This is an example of a form with error warnings.
+    fields:
+      - name: formtitle
+        type: string
+        example: "Contact"
+      - name: formalert
+        type: string
+        example: "There are some items that require your attention"
