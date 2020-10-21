@@ -22,3 +22,16 @@ patternbot:
       The red should also be used in alert situation such as error messages on form fields.
     colors.accent: |
       The accent colour is a darker version of a primary colour. It should be used to accent some elements such as form fields.
+  layouts:
+    default: |
+      The default layout should be used for every page, it includes the website’s main header and footer.
+    case-study: |
+      The case study layout should be used for each individual project only.
+collections:
+  case-study:
+    output: true
+defaults:
+  - scope:
+      path: _projects
+    values:
+      layout: case-study

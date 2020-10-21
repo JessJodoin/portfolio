@@ -1,0 +1,47 @@
+title: "Sections"
+description: |
+  The sections includes various groupings of information found throughout the website.
+
+patterns:
+  text-img-section:
+    title: "Text and Image Section"
+    description: |
+      This is a section that include text and image, where the text and image align side by side on large screens. It is used on the about page.
+    fields:
+      - name: title
+        type: string
+        example: "Hi! I'm Jess Jodoin."
+      - name: parag1
+        type: string
+        example: "I didn’t think I’d end up here, but boy am I happy I did. Art and all things craft-y have always been a huge part of my life."
+      - name: parag2
+        type: string
+        example: "So, I figured it was easy, right? Just a simple point A to point B. Art makes me happy, so that must be the path for me."
+      - name: parag3
+        type: string
+        example: "Well, I took a little detour (… but the scenic route wasn’t so bad). I went off to UOttawa to study Communications. I really enjoyed it, but I realized after graduating that I this wasn't the career path for me."
+      - name: parag4
+        type: string
+        example: "So, (and this is where is gets good!) I went out on a limb, whipped up a portfolio, and applied to the graphic design program at Algonquin College. And I haven’t looked back since."
+      - name: parag5
+        type: string
+        example: "Finally, I’m where I’m supposed to be (that’s here!). Creating fun and eye-catching designs that help you grow your business, and look good while doing it."
+      - name: img
+        type: image
+        example: "/images/my-photo.jpg"
+      - name: alt
+        type: string
+        example: "A professional photo of myself"
+  final-thoughts-section:
+    title: "Final Thoughts Section"
+    description: |
+      This is the final thoughts section found at the bottom of each case study page.
+    fields:
+      - name: title
+        type: string
+        example: "Final Thoughts"
+      - name: data
+        type: object
+        data:
+          source: "site.projects[0]"
+          type: project
