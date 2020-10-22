@@ -94,9 +94,3 @@ thead th {
   vertical-align: bottom;
   border-bottom-width: 2px;
 }
-
-.current {
-  color: var(--color-secondary-bright);
-  text-decoration: underline;
-  font-weight: bold;
-}
