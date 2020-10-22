@@ -48,7 +48,7 @@
   text-decoration: underline;
 }
 
-.current {
+.current a {
   color: var(--color-secondary-bright);
   text-decoration: underline;
   font-weight: bold;
