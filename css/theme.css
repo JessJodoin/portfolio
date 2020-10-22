@@ -98,4 +98,5 @@ thead th {
 .current {
   color: var(--color-secondary-bright);
   text-decoration: underline;
+  font-weight: bold;
 }

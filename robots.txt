@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap: https://jessjodoin.ca/sitemap.xml
+
+User-Agent: *
+Disallow:
