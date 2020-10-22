@@ -40,8 +40,45 @@ patterns:
       - name: title
         type: string
         example: "Final Thoughts"
-      - name: data
-        type: object
-        data:
-          source: "site.projects[0]"
-          type: project
+      - name: img
+        type: image
+        example: "/images/adopt-newsletter-mockup-1.jpg"
+      - name: img2
+        type: image
+        example: "/images/adopt-newsletter-mockup-3.jpg"
+      - name: alt
+        type: string
+        example: "This is a mockup image of the adoption newsletter. It is folded to show the cover page.The image has a light background."
+      - name: alt2
+        type: string
+        example: "This is a mockup image of the adoption newsletter. It is laying flat, angled to show in inner spreads. The image has a light background, and page 2 is in focus."
+  progress-section:
+    title: "Project Progress Section"
+    description: |
+      This is the project progress section. It contains paragraphs about the project's process and three images of sketches.
+    fields:
+      - name: title
+        type: string
+        example: "The Process"
+      - name: img
+        type: image
+        example: "/images/adopt-newsletter-sketches-1.png"
+      - name: img2
+        type: image
+        example: "/images/adopt-newsletter-sketches-2.png"
+      - name: img3
+        type: image
+        example: "/images/adopt-newsletter-sketches-3.png"
+      - name: alt
+        type: string
+        example: "This in an image of my progress sketches for the adoption newsletter. This is the first rough idea for the layout design."
+      - name: alt2
+        type: string
+        example: "This in an image of my progress sketches for the adoption newsletter. This is the second rough idea for the layout design."
+      - name: alt3
+        type: string
+        example: "This in an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design."
+  project-text-section:
+    title: "Project Text Section"
+    description: |
+      This is the project text section. It contains information about the project, the deliverables for the project, and my goals for the project.

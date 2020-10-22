@@ -47,7 +47,11 @@ a:hover {
 }
 
 ul {
-  list-style-type: url(/images/bullet.svg);
+  margin-left: 48px;
+}
+
+li {
+  list-style-image: url("/images/bullet.svg");
 }
 
 ul > li::before {
