@@ -1,37 +1,39 @@
-<form class="contact-form" action="https://formspree.io/f/xaylojpo" method="post" novalidate>
-  <fieldset>
-    <legend class="form-title">{{include.formtitle}}</legend>
-    <div class="error-message error-message-highlighted" role="alert" aria-live="assertive">
-      <h3 class="push-0">
-        <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#warning" /></svg></i>
-        <span class="icon-label">{{include.formalert}}</span>
-      </h3>
-    </div>
-
-    <div class="form-grid">
-      <div class="first-name-form push">
-        {% pattern form/required-basic title="First Name" id="first-name" details="a first name" error="first-name-error" type="text" placeholder="First Name" name="name" %}
+<div class="form-div">
+  <form class="contact-form" action="https://formspree.io/f/xaylojpo" method="post" novalidate>
+    <fieldset>
+      <legend class="form-title">{{include.formtitle}}</legend>
+      <div class="error-message error-message-highlighted" role="alert" aria-live="assertive">
+        <h3 class="push-0">
+          <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#warning" /></svg></i>
+          <span class="icon-label">{{include.formalert}}</span>
+        </h3>
       </div>
 
-      <div class="last-name-form push">
-        {% pattern form/required-basic title="Last Name" id="last-name" details="a last name" error="last-name-error" type="text" placeholder="Last Name" name="name" %}
+      <div class="form-grid">
+        <div class="first-name-form push">
+          {% pattern form/required-basic title="First Name" id="first-name" details="a first name" error="first-name-error" type="text" placeholder="First Name" name="name" %}
+        </div>
+
+        <div class="last-name-form push">
+          {% pattern form/required-basic title="Last Name" id="last-name" details="a last name" error="last-name-error" type="text" placeholder="Last Name" name="name" %}
+        </div>
+
+        <div class="phone-form push">
+          {% pattern form/required-basic title="Phone Number" id="phone-number" details="your phone number" error="phone-number-error" type="tel" placeholder="Phone Number" name="phone" %}
+        </div>
+
+        <div class="email-form push">
+          {% pattern form/required-basic title="Email" id="email" details="a vaild email" error="email-error" type="email" placeholder="example@emial.com" name="_replyto" %}
+        </div>
+
+        <div class="project-desc-form push-2">
+          {% pattern form/required-textarea title="Project Description" id="project-desc" details="details about the project" error="project-desc-error" type="text" placeholder="Tell me about your project..." %}
+        </div>
       </div>
 
-      <div class="phone-form push">
-        {% pattern form/required-basic title="Phone Number" id="phone-number" details="your phone number" error="phone-number-error" type="tel" placeholder="Phone Number" name="phone" %}
+      <div class="submit push">
+        {% pattern buttons/submit title="Submit" %}
       </div>
-
-      <div class="email-form push">
-        {% pattern form/required-basic title="Email" id="email" details="a vaild email" error="email-error" type="email" placeholder="example@emial.com" name="_replyto" %}
-      </div>
-
-      <div class="project-desc-form push-2">
-        {% pattern form/required-textarea title="Project Description" id="project-desc" details="details about the project" error="project-desc-error" type="text" placeholder="Tell me about your project..." %}
-      </div>
-    </div>
-
-    <div class="submit push">
-      {% pattern buttons/submit title="Submit" %}
-    </div>
-  </fieldset>
-</form>
+    </fieldset>
+  </form>
+</div>

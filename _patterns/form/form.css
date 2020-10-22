@@ -96,6 +96,10 @@ textarea::placeholder {
   text-align: center;
 }
 
+.form-div {
+  margin: 2rem auto;
+}
+
 @media only screen and (min-width: 38em) {
 
   .form-grid {
