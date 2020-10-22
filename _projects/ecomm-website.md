@@ -62,3 +62,4 @@ mockup3-alt: |
   This is a mockup image of the Pew Pew eCommerce website on medium and small screens. The background is light, and neutral.
 mockup3-aria: |
   This is a mockup image of the Pew Pew eCommerce website on medium and small screens. The background is light, and neutral.
+---

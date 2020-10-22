@@ -61,3 +61,4 @@ mockup3-alt: |
   This is a mockup image of the brochure side of the OIAF posterzine. It shows all section, with the top sections flipped to be readable.
 mockup3-aria: |
   This is a mockup image of the brochure side of the OIAF posterzine. It shows all section, with the top sections flipped to be readable.
+---

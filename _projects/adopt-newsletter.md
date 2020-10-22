@@ -61,3 +61,4 @@ mockup3-alt: |
   This is a mockup image of the adoption newsletter. It is laying flat, angled to show in inner spreads. The image has a light background, and page 2 is in focus.
 mockup3-aria: |
   This is a mockup image of the adoption newsletter. It is laying flat, angled to show in inner spreads. The image has a light background, and page 2 is in focus.
+---

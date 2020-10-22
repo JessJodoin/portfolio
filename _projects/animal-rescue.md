@@ -61,3 +61,4 @@ mockup3-alt: |
   This is a mockup image of the B.A.R.K website redesign on a small screen. The background is light, and neutral.
 mockup3-aria: |
   This is a mockup image of the B.A.R.K website redesign on a small screen. The background is light, and neutral.
+---

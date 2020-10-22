@@ -61,3 +61,4 @@ mockup3-alt: |
   This is a mockup image of both the front/back page spread and the inside spreads.
 mockup3-aria: |
   This is a mockup image of both the front/back page spread and the inside spreads.
+---
