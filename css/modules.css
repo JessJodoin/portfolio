@@ -812,8 +812,8 @@ a:focus, [tabindex="0"]:focus {
   list-style-type: none;
 }
 
-.skip-links a,
-.skip-links button {
+.skip-links li a,
+.skip-links li button {
   padding: .5em .75em;
   position: absolute;
   top: -10em;
@@ -826,8 +826,8 @@ a:focus, [tabindex="0"]:focus {
   text-decoration: none;
 }
 
-.skip-links a:focus,
-.skip-links button:focus {
+.skip-links li a:focus,
+.skip-links li button:focus {
   outline-offset: 3px;
   top: 0;
 }
