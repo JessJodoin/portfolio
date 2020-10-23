@@ -1,4 +1,7 @@
 ---
+title: "eCommerce Website"
+description: |
+  This web piece is a website design for a fictitious eCommerce company for Star Wars merch I designed, that I called PewPew.
 project-type: "Web Development"
 project-title: "eCommerce Website"
 timeframe: "14 weeks"

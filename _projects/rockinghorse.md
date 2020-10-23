@@ -1,4 +1,7 @@
 ---
+title: "DIY Instructional Booklet"
+description: |
+  This typography piece is a design of an instructional booklet for a DIY rocking horse toy sold by Lowe’s.
 project-type: "Typography"
 project-title: "Lowe’s Rocking Horse Booklet"
 timeframe: "4 weeks"

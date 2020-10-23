@@ -1,4 +1,7 @@
 ---
+title: "Animal Rescue Website"
+description: |
+  This web piece is a re-brand/website redesign for a local animal rescue organization, Bytown Association for Rescued Kanines (BARK).
 project-type: "Web Development"
 project-title: "B.A.R.K. Website Redesign"
 timeframe: "3 weeks"

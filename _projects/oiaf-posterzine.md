@@ -1,4 +1,7 @@
 ---
+title: "Animation Festival Posterzine"
+description: |
+  This typography piece is a poster and brochure combined into one piece (posterzine) for the Ottawa International Animation Festival (OIAF).
 project-type: "Typography"
 project-title: "OIAF Posterzine"
 timeframe: "3 weeks"
