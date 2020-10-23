@@ -2,10 +2,34 @@
 layout: default
 ---
 
-<div class="" id="main">
+<div class="main" id="main">
 
-  <div class="">
-    <img src="" alt="">
+  <div class="island">
+    <img src="{{include.data.mockup-1}}" alt="{{include.data.mockup1-alt}}" aria-label="{{include.data.mockup1-aria}}">
+  </div>
+
+  <div class="push-2">
+    {% pattern sections/project-text-section title1="Project Description" title2="Deliverables" title3="My Goals" data=project %}
+  </div>
+
+  <div class="push-2">
+    {% pattern sections/img-overlap-section data=project %}
+  </div>
+
+  <div class="push-2">
+    {% pattern sections/progress-section title="The Process" data=project %}
+  </div>
+
+  <div class="push-2">
+
+  </div>
+
+  <div class="push-2">
+    {% pattern sections/final-thoughts-section title="Final Thoughts" data=project %}
+  </div>
+
+  <div class="push-2">
+    {% pattern navigation/page-nav %}
   </div>
 
 </div>
