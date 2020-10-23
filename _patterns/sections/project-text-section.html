@@ -9,8 +9,10 @@
     <div class="push-2">
       <h2>{{include.title2}}</h2>
       <ul>
-        <li>Illustrations, photos, and catchy title for newsletter</li>
-        <li>11” x 17” newsletter (folded like a book, double-sided)</li>
+        {% for del in include.data.deliverables %}
+          <li>{{del}}</li>
+          <li>{{del}}</li>
+        {% endfor %}
       </ul>
     </div>
 

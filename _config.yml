@@ -28,7 +28,7 @@ patternbot:
     case-study: |
       The case study layout should be used for each individual project only.
 collections:
-  case-study:
+  projects:
     output: true
 defaults:
   - scope:
