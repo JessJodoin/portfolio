@@ -37,6 +37,7 @@
   grid-template-areas:
     "card";
   max-width: 500px;
+  margin: 0 auto;
 }
 
 .side-card-img {
