@@ -313,6 +313,10 @@ svg.img-flex {
   text-decoration: none;
 }
 
+.width-full, .w-1 {
+  width: 100%;
+}
+
 ul {
   list-style-type: none;
 }
