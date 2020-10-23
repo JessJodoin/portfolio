@@ -1,0 +1,13 @@
+title: "Cards"
+description: |
+  Cards should be used to promote each case study is a more pleasing way.
+
+patterns:
+  case-study-card-red:
+    title: "Case Study Card (Red Hover)"
+    description: |
+     This is the card for each case study, linking to each case study page. The hover state is red.
+  case-study-card-blue:
+    title: "Case Study Card (Blue Hover)"
+    description: |
+     This is the card for each case study, linking to each case study page. The hover state is blue.

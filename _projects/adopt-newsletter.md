@@ -18,7 +18,7 @@ goals: |
   My goals for this project were to create a playful pet-themed newsletter that would be informative and fun. I wanted to make the information more digestible with the use of fun colours, cute animal photos, and themed illustrations.
 progress-1: "/images/adopt-newsletter-testprint1.jpg"
 progress1-alt: |
-   This is an image of a test print during the process of creating the newsletter. It shows the cover page and the back page.
+  This is an image of a test print during the process of creating the newsletter. It shows the cover page and the back page.
 progress1-aria: |
   This is an image of a test print during the process of creating the newsletter. It shows the cover page and the back page.
 progress-2: "/images/adopt-newsletter-testprint2.jpg"

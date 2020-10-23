@@ -89,7 +89,20 @@ patterns:
   img-overlap-section:
     title: "Image Overlap Section"
     description: |
-      This is an image overlap section. It contains twp images that overlap each other on an edge.
+      This is an image overlap section. It contains two images that overlap each other on an edge.
+    fields:
+      - name: img1
+        type: image
+        example: "/images/adopt-newsletter-testprint1.jpg"
+      - name: img2
+        type: image
+        example: "/images/adopt-newsletter-testprint2.jpg"
+      - name: alt1
+        type: string
+        example: "This is an image of a test print during the process of creating the newsletter. It shows the cover page and the back page."
+      - name: alt2
+        type: string
+        example: "This is an image of a test print during the process of creating the newsletter. It shows the inner spreads (page 2 and 3)."
   card-grid-section:
     title: "Card Grid Section"
     description: |
