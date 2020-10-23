@@ -35,7 +35,7 @@ process2: |
   I began sketching the webpages necessary for the website. After, I started sketching the logo. I wanted a simple logo that emulated the Star Wars logo to make it more obvious that this store is Star Wars themed. I then moved onto sketching and designing all the products that would be available on the website (there were quite a few, but baby Yoda made it easier!).
 process3: |
   With all my assets completed, it was time to move on to the best part; coding! I started with completing a pattern library explaining all elements, what they are used for, how to use them, and their colour schemes and fonts used. I built each piece (buttons and cards and such) first, and then placed them where they needed to go on each webpage until the site was complete.
-  (https://elated-joliot-4d9f2c.netlify.app)
+  (Pew Pew Website – https://elated-joliot-4d9f2c.netlify.app) (Pew Pew Pattern Library – https://elated-joliot-4d9f2c.netlify.app/pattern-library#brand)
 sketches-1: "/images/ecomm-website-wireframes-1.png"
 sketches1-alt: |
   This is an image of the website wireframes. This is the layout for the home page.
