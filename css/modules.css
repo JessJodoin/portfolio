@@ -808,6 +808,8 @@ a:focus, [tabindex="0"]:focus {
 
 .skip-links > li::before {
   content: none; /* Remove the bullets if nice lists is selected */
+  list-style-image: none;
+  list-style-type: none;
 }
 
 .skip-links a,
