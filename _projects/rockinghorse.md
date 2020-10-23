@@ -47,8 +47,8 @@ sketches3-alt: |
   This in an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
 sketches3-aria: |
   This in an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
-challenges:
-  - "The size of the manual is quite small and there was quite a bit of content needed, and trying to get the spacing of elements proved a little tricky."
+challenges: |
+  The size of the manual is quite small and there was quite a bit of content needed, and trying to get the spacing of elements proved a little tricky.
 final-thoughts: |
   I really enjoyed designing this instruction manual. I think the final design turned out really colourful and fun. The design feels very child-like, and I think if a parent was walking through Lowe’s and saw this DIY, they would want to pick it up and see what it’s all about.
 mockup-2: "/images/rockinghorse-mockup-3.jpg"

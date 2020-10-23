@@ -47,8 +47,8 @@ sketches3-alt: |
   This in an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
 sketches3-aria: |
   This in an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
-challenges:
-  - "Making sure everything was good, accessibility wise. Accessibility is important in web design, and I wanted to make sure that the redesign would be accessible for anyone who might use it."
+challenges: |
+  Making sure everything was good, accessibility wise. Accessibility is important in web design, and I wanted to make sure that the redesign would be accessible for anyone who might use it.
 final-thoughts: |
   I find coding super fun, so I had a great time with this website redesign. I think that the new design brings B.A.R.K. to a new level of professionalism, and will increase their adoption rates. B.A.R.K. is a fantastic rescue organization, and now their website shows that same passion for helping stray dogs.
 mockup-2: "/images/animal-rescue-mockup-2.jpg"

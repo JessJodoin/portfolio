@@ -47,8 +47,8 @@ sketches3-alt: |
   This in an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
 sketches3-aria: |
   This in an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
-challenges:
-  - "There was a good amount of information that had to fit into the newsletter, trying to give everything the right spacing was a bit challenging"
+challenges: |
+  There was a good amount of information that had to fit into the newsletter, trying to give everything the right spacing was a bit challenging.
 final-thoughts: |
   I really enjoyed designing this newsletter. It allowed me to create something super playful and fun. I think it really captured the spirit of the OHS and the adoption process. Adopting a pet should be a happy and fun experience, and I think this design really shows that, while giving you all the important information on adoption.
 mockup-2: "/images/adopt-newsletter-mockup-1.jpg"

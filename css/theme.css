@@ -11,6 +11,7 @@
 
 html {
   font-family: var(--font-primary);
+  color: var(--color-primary);
 }
 
 h1,
@@ -50,8 +51,8 @@ ul {
   margin-left: 36px;
 }
 
-li {
-  list-style-image: url("/images/bullet.svg");
+ul > li {
+  list-style-image: url("../images/bullet.svg");
 }
 
 ul > li::before {
@@ -59,7 +60,7 @@ ul > li::before {
 }
 
 ol {
-  list-style-type: upper-roman;
+  list-style-type: lower-roman;
 }
 
 ol > li::before {

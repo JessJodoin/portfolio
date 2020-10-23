@@ -82,3 +82,15 @@ patterns:
     title: "Project Text Section"
     description: |
       This is the project text section. It contains information about the project, the deliverables for the project, and my goals for the project.
+  side-card-section:
+    title: "Side Card Section"
+    description: |
+      This is a side card section. It is for text — a heading and a paragraph.
+  img-overlap-section:
+    title: "Image Overlap Section"
+    description: |
+      This is an image overlap section. It contains twp images that overlap each other on an edge.
+  card-grid-section:
+    title: "Card Grid Section"
+    description: |
+      This is a card grid section. It is used to organize the project cards into a nice grid.

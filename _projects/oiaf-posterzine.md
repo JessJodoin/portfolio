@@ -47,8 +47,8 @@ sketches3-alt: |
   This in an image of the final iteration of sketches for the layout design.
 sketches3-aria: |
   This in an image of the final iteration of sketches for the layout design.
-challenges:
-  - "With the limited space on the poster, fitting all the information given and making sure they had good spacing was a challenge."
+challenges: |
+  With the limited space on the poster, fitting all the information given and making sure they had good spacing was a challenge.
 final-thoughts: |
   I think this posterzine turned out very successful. It fully encompasses the interesting brand that is OIAF. The final illustration is also very eye-catching with the contrast of the dark background and light clock face, which would make me want to read the posterzine.
 mockup-2: "/images/oiaf-posterzine-mockup-2.jpg"

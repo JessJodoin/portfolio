@@ -48,8 +48,8 @@ sketches3-alt: |
   This in an image of the website wireframes. This is the layout for the checkout page.
 sketches3-aria: |
   This in an image of the website wireframes. This is the layout for the checkout page.
-challenges:
-  - "There were a lot of moving parts to coding the Pew Pew website, which made it slightly challenging at first to make sure everything was in working order on each page."
+challenges: |
+  There were a lot of moving parts to coding the Pew Pew website, which made it slightly challenging at first to make sure everything was in working order on each page.
 final-thoughts: |
   Though the project, at first, seemed intimidating, I had a lot of fun coding and designing it. I think the project looks good, icons and illustrations are well-done. The design is responsive to all of the screen sizes, and good accessibility standards were used. I think in the future it might be fun to redesign and add more to it (and maybe make it a real site?).
 mockup-2: "/images/ecomm-website-mockup-1.jpg"
