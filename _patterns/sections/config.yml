@@ -88,6 +88,19 @@ patterns:
       - name: content
         type: string
         example: "There was a good amount of information that had to fit into the newsletter, trying to give everything the right spacing was a bit challenging."
+  side-card-include-section:
+    title: "Side Card Section (with data includes)"
+    description: |
+      This is a side card section. It is for text — a heading and a paragraph. Use with markdown files.
+    fields:
+      - name: title
+        type: string
+        example: "Challenges"
+      - name: data
+        type: object
+        data:
+          source: "site.projects[0]"
+          type: project
   img-overlap-section:
     title: "Image Overlap Section"
     description: |
