@@ -3,10 +3,10 @@ description: |
   Cards should be used to promote each case study is a pleasing way.
 
 patterns:
-  case-study-card:
-    title: "Case Study Card"
+  project-card:
+    title: "Project Card"
     description: |
-     This is the card for each case study, linking to each case study page. The hover state is red.
+     This is the card for each project case study, linking to each case study page.
     fields:
       - name: data
         type: object

@@ -5,7 +5,7 @@ description: |
 
 patterns:
   basic:
-    title: "Basic"
+    title: "Basic Button"
     description: |
       Default to using the basic button. It should be used in front of light backgounds.
     width: "12em"
@@ -17,7 +17,7 @@ patterns:
         type: url
         example: "/contact/"
   ghost:
-    title: "Ghost"
+    title: "Ghost Button"
     description: |
       The ghost button is specifically for banners or cards, where it will be placed in front of busy images.
     width: "12em"
@@ -25,11 +25,13 @@ patterns:
       - name: title
         type: string
         example: "Get in touch!"
-      - name: url
-        type: url
-        example: "/contact/"
+      - name: data
+        type: object
+        data:
+          source: "site.projects[0]"
+          type: project
   light:
-    title: "Light"
+    title: "Light Button"
     description: |
       The light button should be used in front of dark backgounds.
     width: "12em"
