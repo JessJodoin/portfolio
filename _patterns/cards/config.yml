@@ -7,6 +7,16 @@ patterns:
     title: "Case Study Card (Red Hover)"
     description: |
      This is the card for each case study, linking to each case study page. The hover state is red.
+    fields:
+      - name: projecttitle
+        type: string
+        example: "OHS Pet Adoption Newsletter"
+      - name: projecttype
+        type: string
+        example: "Typography"
+      - name: alt
+        type: string
+        example: "This is a mockup image of the adoption newsletter. It is laying flat, angled to show in inner spreads. The image has a light background, and page 3 is in focus."
   case-study-card-blue:
     title: "Case Study Card (Blue Hover)"
     description: |

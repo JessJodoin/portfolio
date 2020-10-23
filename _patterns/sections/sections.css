@@ -63,6 +63,32 @@
   margin: 0 auto;
 }
 
+.work-experience {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.exp-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+}
+
+.date {
+  font-family: var(--font-secondary);
+  font-size: 1.4rem;
+}
+
+.job-title {
+  font-family: var(--font-secondary);
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.corp-name {
+  font-family: var(--font-secondary);
+}
+
 @media only screen and (min-width: 38em) {
 
   .img-text-section,
@@ -147,6 +173,18 @@
   .img2-overlap {
     grid-column: 3 / -1;
     grid-row: 2 / -1;
+  }
+
+  .exp-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+@media only screen and (min-width: 960px) {
+
+  .exp-list {
+    grid-template-columns: repeat(3, 1fr);
   }
 
 }

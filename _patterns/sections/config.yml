@@ -82,10 +82,18 @@ patterns:
     title: "Project Text Section"
     description: |
       This is the project text section. It contains information about the project, the deliverables for the project, and my goals for the project.
+    fields:
   side-card-section:
     title: "Side Card Section"
     description: |
       This is a side card section. It is for text — a heading and a paragraph.
+    fields:
+      - name: title
+        type: string
+        example: "Challenges"
+      - name: content
+        type: string
+        example: "There was a good amount of information that had to fit into the newsletter, trying to give everything the right spacing was a bit challenging."
   img-overlap-section:
     title: "Image Overlap Section"
     description: |
@@ -103,6 +111,38 @@ patterns:
       - name: alt2
         type: string
         example: "This is an image of a test print during the process of creating the newsletter. It shows the inner spreads (page 2 and 3)."
+  work-exp-section:
+    title: "Work Experience Section"
+    description: |
+      This is the work experience section. It contains a heading and a list.
+    fields:
+      - name: date1
+        type: string
+        example: "2018 – Current"
+      - name: job1
+        type: string
+        example: "Freelance "
+      - name: corp1
+        type: string
+        example: "Jess Jodoin Design"
+      - name: date2
+        type: string
+        example: "2020 "
+      - name: job2
+        type: string
+        example: "Web Dev/Design Teaching Assistant"
+      - name: corp2
+        type: string
+        example: " Algonquin College"
+      - name: date3
+        type: string
+        example: "2019"
+      - name: job3
+        type: string
+        example: "Graphic Design Intern "
+      - name: corp3
+        type: string
+        example: "Solink"
   card-grid-section:
     title: "Card Grid Section"
     description: |
