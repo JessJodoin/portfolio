@@ -127,7 +127,7 @@ patterns:
         example: "Jess Jodoin Design"
       - name: date2
         type: string
-        example: "2020 "
+        example: "2020"
       - name: job2
         type: string
         example: "Web Dev/Design Teaching Assistant"
