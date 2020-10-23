@@ -31,15 +31,11 @@ patterns:
     description: |
       The case study banner should be used at the top of each case study page on the website. For this banner, no image is to be used.
     fields:
-      - name: projecttype
-        type: string
-        example: "Web"
-      - name: projecttitle
-        type: string
-        example: "Animal Rescue Website Redo"
-      - name: timeframe
-        type: string
-        example: "6 weeks"
+      - name: data
+        type: object
+        data:
+          source: "site.projects[0]"
+          type: project
   img-banner:
     title: "Image Banner"
     description: |
