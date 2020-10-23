@@ -1,0 +1,11 @@
+<div class="case-study-card">
+  <a href="{{include.data.url}}">
+    <img src="{{include.data.mockup-1}}" alt="{{include.data.mockup1-alt}}" aria-lable="{{include.data.mockup1-aria}}">
+
+    <div class="card-content">
+      <h3>{{include.data.projecttitle}}</h3>
+      <p class="card-p">{{include.data.projecttype}}</p>
+      {% pattern buttons/ghost title="View Project" url="#" %}
+    </div>
+  </a>
+</div>
