@@ -52,3 +52,15 @@ Location: Ottawa, Canada
 - Photo by T.Q.
   Used under CC BY
   https://unsplash.com/photos/m2zuB8DqwyM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+- "Logo Mark" by GitHub
+  Used under CC By
+  https://github.com/logos
+
+- "Glyph Icon" by Instagram
+  Used under CC By
+  https://en.instagram-brand.com/assets/icons
+
+- "Logo Icon" by Behance
+  Used under CC By
+  https://www.behance.net/dev/api/brand
