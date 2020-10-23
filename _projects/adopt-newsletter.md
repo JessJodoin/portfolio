@@ -37,19 +37,19 @@ process3: |
   With the layout design approved, I started to build the newsletter. I designed some fun illustrative pieces, like grass and a fire hydrant, and got some cute pet photos together. I chose a playful typeface for heading, and a good, readable typeface for the body copy. With one last final approval of the design, the newsletter was complete!
 sketches-1: "/images/adopt-newsletter-sketches-1.png"
 sketches1-alt: |
-  This in an image of my progress sketches for the adoption newsletter. This is the first rough idea for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the first rough idea for the layout design.
 sketches1-aria: |
-  This in an image of my progress sketches for the adoption newsletter. This is the first rough idea for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the first rough idea for the layout design.
 sketches-2: "/images/adopt-newsletter-sketches-2.png"
 sketches2-alt: |
-  This in an image of my progress sketches for the adoption newsletter. This is the second rough idea for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the second rough idea for the layout design.
 sketches2-aria: |
-  This in an image of my progress sketches for the adoption newsletter. This is the second rough idea for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the second rough idea for the layout design.
 sketches-3: "/images/adopt-newsletter-sketches-3.png"
 sketches3-alt: |
-  This in an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
 sketches3-aria: |
-  This in an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
+  This is an image of my progress sketches for the adoption newsletter. This is the third and final ideas for the layout design.
 challenges: |
   There was a good amount of information that had to fit into the newsletter, trying to give everything the right spacing was a bit challenging.
 final-thoughts: |

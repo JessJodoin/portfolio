@@ -37,19 +37,19 @@ process3: |
   I picked a dark colour theme that fit well with the design, and picked fonts that were readable and simple to not distract from the main illustration. I used grids to make sure all the pieces lined up nicely and looked clean. And then I added all the illustrations, images, and text into the final posterzine layout.
 sketches-1: "/images/oiaf-posterzine-mindmap.png"
 sketches1-alt: |
-  This in an image of the mid mapping/research for the OIAF posterzine design.
+  This is an image of the mid mapping/research for the OIAF posterzine design.
 sketches1-aria: |
-  This in an image of the mid mapping/research for the OIAF posterzine design.
+  This is an image of the mid mapping/research for the OIAF posterzine design.
 sketches-2: "/images/oiaf-posterzine-sketches-1.png"
 sketches2-alt: |
-  This in an image of the first iteration of sketches for the layout design.
+  This is an image of the first iteration of sketches for the layout design.
 sketches2-aria: |
-  This in an image of the first iteration of sketches for the layout design.
+  This is an image of the first iteration of sketches for the layout design.
 sketches-3: "/images/oiaf-posterzine-sketches-2.png"
 sketches3-alt: |
-  This in an image of the final iteration of sketches for the layout design.
+  This is an image of the final iteration of sketches for the layout design.
 sketches3-aria: |
-  This in an image of the final iteration of sketches for the layout design.
+  This is an image of the final iteration of sketches for the layout design.
 challenges: |
   With the limited space on the poster, fitting all the information given and making sure they had good spacing was a challenge.
 final-thoughts: |

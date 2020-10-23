@@ -37,19 +37,19 @@ process3: |
   Using InDesign, I created the instructional manual/booklet. I created the various paragraph styles, and created and styled the tables. With the document set up, I added all my illustration, elements, and text to create my fun design.
 sketches-1: "/images/rockinghorse-sketches-3.png"
 sketches1-alt: |
-  This in an image of the logo design sketches.
+  This is an image of the logo design sketches.
 sketches1-aria: |
-  This in an image of the logo design sketches.
+  This is an image of the logo design sketches.
 sketches-2: "/images/rockinghorse-sketches-1.jpg"
 sketches2-alt: |
-  This in an image of the sketches the layout design of the booklet. This shows the first and second layout ideas.
+  This is an image of the sketches the layout design of the booklet. This shows the first and second layout ideas.
 sketches2-aria: |
-  This in an image of the sketches the layout design of the booklet. This shows the first and second layout ideas.
+  This is an image of the sketches the layout design of the booklet. This shows the first and second layout ideas.
 sketches-3: "/images/rockinghorse-sketches-2.jpg"
 sketches3-alt: |
-  This in an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
+  This is an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
 sketches3-aria: |
-  This in an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
+  This is an image of the sketches the layout design of the booklet. This shows the third and fourth layout ideas.
 challenges: |
   The size of the manual is quite small and there was quite a bit of content needed, and trying to get the spacing of elements proved a little tricky.
 final-thoughts: |

@@ -37,19 +37,19 @@ process3: |
   Then I went on to the fun part (coding!). I coded each page following my sketches, to create a fun overall brand for B.A.R.K.
 sketches-1: "/images/animal-rescue-wireframes-1.jpg"
 sketches1-alt: |
-  This in an image of the website wireframes. This is the layout for the home page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the home page across different screen sizes.
 sketches1-aria: |
-  This in an image of the website wireframes. This is the layout for the home page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the home page across different screen sizes.
 sketches-2: "/images/animal-rescue-wireframes-2.jpg"
 sketches2-alt: |
-  This in an image of the website wireframes. This is the layout for the available rescues page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the available rescues page across different screen sizes.
 sketches2-aria: |
-  This in an image of the website wireframes. This is the layout for the available rescues page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the available rescues page across different screen sizes.
 sketches-3: "/images/animal-rescue-wireframes-3.jpg"
 sketches3-alt: |
-  This in an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
 sketches3-aria: |
-  This in an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
+  This is an image of the website wireframes. This is the layout for the adoption form page across different screen sizes.
 challenges: |
   Making sure everything was good, accessibility wise. Accessibility is important in web design, and I wanted to make sure that the redesign would be accessible for anyone who might use it.
 final-thoughts: |

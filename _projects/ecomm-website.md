@@ -38,19 +38,19 @@ process3: |
   (https://elated-joliot-4d9f2c.netlify.app)
 sketches-1: "/images/ecomm-website-wireframes-1.png"
 sketches1-alt: |
-  This in an image of the website wireframes. This is the layout for the home page.
+  This is an image of the website wireframes. This is the layout for the home page.
 sketches1-aria: |
-  This in an image of the website wireframes. This is the layout for the home page.
+  This is an image of the website wireframes. This is the layout for the home page.
 sketches-2: "/images/ecomm-website-wireframes-2.png"
 sketches2-alt: |
-  This in an image of the website wireframes. This is the layout for the general shop page and each product page.
+  This is an image of the website wireframes. This is the layout for the general shop page and each product page.
 sketches2-aria: |
-  This in an image of the website wireframes. This is the layout for the general shop page and each product page.
+  This is an image of the website wireframes. This is the layout for the general shop page and each product page.
 sketches-3: "/images/ecomm-website-wireframes-3.png"
 sketches3-alt: |
-  This in an image of the website wireframes. This is the layout for the checkout page.
+  This is an image of the website wireframes. This is the layout for the checkout page.
 sketches3-aria: |
-  This in an image of the website wireframes. This is the layout for the checkout page.
+  This is an image of the website wireframes. This is the layout for the checkout page.
 challenges: |
   There were a lot of moving parts to coding the Pew Pew website, which made it slightly challenging at first to make sure everything was in working order on each page.
 final-thoughts: |
