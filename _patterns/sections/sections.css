@@ -3,7 +3,7 @@
   grid-template-columns: 1fr;
   grid-gap: 1.5rem;
   max-width: 845px;
-  margin: 0 auto;
+  margin: 1.5rem auto 0;
 }
 
 .quotation {
