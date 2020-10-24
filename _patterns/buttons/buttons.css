@@ -8,7 +8,8 @@
   font-weight: bold;
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus {
   background-color: var(--color-secondary);
   border-color: var(--color-secondary);
   color: var(--color-primary);
@@ -20,7 +21,8 @@
   color: var(--color-primary);
 }
 
-.btn-ghost:hover {
+.btn-ghost:hover,
+.btn-ghost:focus  {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
   color: var(--color-primary-light);
@@ -32,7 +34,8 @@
   color: var(--color-primary);
 }
 
-.btn-light:hover {
+.btn-light:hover,
+.btn-ghost:focus  {
   background-color: var(--color-secondary);
   border-color: var(--color-secondary);
   color: var(--color-primary);
@@ -44,7 +47,8 @@
   color: var(--color-primary-light);
 }
 
-.btn-submit:hover {
+.btn-submit:hover,
+.btn-submit:focus {
   background-color: var(--color-secondary-bright);
   border-color: var(--color-secondary-bright);
   color: var(--color-primary);

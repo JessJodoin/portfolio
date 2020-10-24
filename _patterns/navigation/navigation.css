@@ -34,7 +34,9 @@
 }
 
 .header-nav a:hover,
-.page-nav a:hover {
+.page-nav a:hover,
+.header-nav a:focus,
+.page-nav a:focus {
   color: var(--color-secondary-bright);
   text-decoration: underline;
 }
@@ -58,7 +60,8 @@
   text-decoration: none;
 }
 
-.footer-nav a:hover {
+.footer-nav a:hover,
+.footer-nav a:focus {
   color: var(--color-secondary-bright);
   text-decoration: underline;
 }
@@ -83,6 +86,12 @@
   fill: var(--color-primary-light);
 }
 
-.social-icons:hover {
+.social-links:hover .social-icons,
+.social-links:focus .social-icons {
   fill: var(--color-secondary-bright);
+}
+
+.footer-nav a:focus,
+.social-links:focus {
+  outline: 3px solid var(--color-primary-light);
 }

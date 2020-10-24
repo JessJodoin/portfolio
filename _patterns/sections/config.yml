@@ -147,3 +147,7 @@ patterns:
     title: "Card Grid Section"
     description: |
       This is a card grid section. It is used to organize the project cards into a nice grid.
+  error-404:
+    title: "404 Error Section"
+    description: |
+      This is the 404 error section. It is used on the 404 page only.

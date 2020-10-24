@@ -4,15 +4,53 @@
   <url>
     <loc>https://jessjodoin.ca</loc>
     <priority>1.0</priority>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-10-24</lastmod>
   </url>
 
   <url>
     <loc>https://jessjodoin.ca/about/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
   </url>
 
   <url>
     <loc>https://jessjodoin.ca/contact/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/projects/adopt-newslette/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/projects/animal-rescue/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/projects/ecomm-website/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/projects/oiaf-posterzine/</loc>
+    <priority>0.7</priority>
+    <lastmod>2020-10-24</lastmod>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/projects/rockinghorse/</loc>
+  </url>
+
+  <url>
+    <loc>https://jessjodoin.ca/404/</loc>
+    <priority>0.5</priority>
+    <lastmod>2020-10-24</lastmod>
   </url>
 
 </urlset>

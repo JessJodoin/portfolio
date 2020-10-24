@@ -27,6 +27,8 @@ patternbot:
       The default layout should be used for every page, it includes the website’s main header and footer.
     case-study: |
       The case study layout should be used for each individual project only.
+    error-404-page: |
+      The 404 layout is used for the 404 page only. It doesn't have a header or footer, just the space for the 404 error section.
 collections:
   projects:
     output: true
