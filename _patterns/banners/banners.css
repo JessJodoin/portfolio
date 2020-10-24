@@ -9,6 +9,15 @@
   max-width: 28em;
 }
 
+.txt-center {
+  text-align: center;
+}
+
+.img-banner {
+  max-width: 860px;
+  margin: 2rem auto 0;
+}
+
 .banner-content {
   margin: 0 auto;
   max-width: 25em;

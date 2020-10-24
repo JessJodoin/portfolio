@@ -36,10 +36,10 @@ patterns:
         data:
           source: "site.projects[0]"
           type: project
-  img-banner:
-    title: "Image Banner"
+  swoop-banner:
+    title: "Swoop Banner"
     description: |
-      The image banner should only be used on pages that don't have a banner above the footer (contact banner). It should sit above the footer.
+      The swoop banner should only be used on pages that don't have a banner above the footer (contact banner). It should sit above the footer.
   call-to-action:
     title: "Call to Action Banner"
     description: |
@@ -48,3 +48,13 @@ patterns:
       - name: content
         type: string
         example: "You've seen my work, let's hear about yours."
+  img-banner:
+    title: "Image Banner"
+    description: |
+      This is an image banner. It onoly contains an image, and is found under the project piece banners on the case study pages.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.projects[0]"
+          type: project

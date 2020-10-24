@@ -4,8 +4,10 @@ layout: default
 
 <div class="main" id="main">
 
-  <div class="island">
-    <img src="{{include.data.mockup-1}}" alt="{{include.data.mockup1-alt}}" aria-label="{{include.data.mockup1-aria}}">
+  {% pattern banners/project-piece-banner data=page %}
+
+  <div class="push-2">
+    {% pattern banners/img-banner data=page %}
   </div>
 
   <div class="push-2">
@@ -32,4 +34,5 @@ layout: default
     {% pattern navigation/page-nav %}
   </div>
 
+  {% pattern banners/call-to-action content="You've seen my work, let's hear about yours." %}
 </div>

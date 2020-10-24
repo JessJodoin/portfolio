@@ -41,7 +41,7 @@ sketches1-alt: |
   This is an image of the website wireframes. This is the layout for the home page.
 sketches1-aria: |
   This is an image of the website wireframes. This is the layout for the home page.
-sketches-2: "/images/ecomm-website-wireframes-2.png"
+sketches-2: "/images/ecomm-website-wireframes-2.jpg"
 sketches2-alt: |
   This is an image of the website wireframes. This is the layout for the general shop page and each product page.
 sketches2-aria: |
