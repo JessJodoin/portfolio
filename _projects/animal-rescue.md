@@ -11,7 +11,7 @@ mockup1-alt: |
 mockup1-aria: |
   This is a mockup image of the B.A.R.K website redesign on medium and small screens. The background is light, and neutral.
 project-description1: |
-  The Bytown Association for Rescued Kanines (B.A.R.K.), is an Ottawa-based no-kill animal rescue. The team consists of mostly volunteers, who work tirelessly to help dogs in need. But their website needed a little rescuing (http://www.bark-ottawa.com/).
+  The Bytown Association for Rescued Kanines (B.A.R.K.), is an Ottawa-based no-kill animal rescue. The team consists of mostly volunteers, who work tirelessly to help dogs in need. But their website needed a little rescuing.
 project-description2: |
   The current website didn’t represent the brand in the way that it could, so redesigning the site to fit with their brand and showcase the amazing things they do was the goal.
 deliverables:

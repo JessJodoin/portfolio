@@ -47,6 +47,15 @@ a:hover {
   color: var(--color-secondary-bright);
 }
 
+.list-none {
+  margin-left: 0;
+}
+
+.list-none > li {
+  list-style-image: none;
+  list-style-type: none;
+}
+
 ul {
   margin-left: 36px;
 }
