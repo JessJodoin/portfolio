@@ -1,21 +1,31 @@
 <nav>
   <ul class="page-nav">
     <li>
-      <a href="{{site.baseurl}}{{page.previous.url}}">
-        <i>
-          <svg class="icon i-32"><use xlink:href="/images/icons.svg#previous" /></svg>
-        </i>
-        <span>Previous</span>
-      </a>
+      {% if page.previous.url %}
+        {% assign previous = page.previous.url %}
+      {% else %}
+       {% assign previous = site.projects[0] %}
+      {% endif %}
+        <a href="{{site.baseurl}}{{page.previous.url}}">
+          <i>
+            <svg class="icon i-32"><use xlink:href="/images/icons.svg#previous" /></svg>
+          </i>
+          <span>Previous</span>
+        </a>
     </li>
 
     <li>
-      <a href="{{site.baseurl}}{{page.next.url}}">
-        <span>Next</span>
-        <i>
-          <svg class="icon i-32"><use xlink:href="/images/icons.svg#next" /></svg>
-        </i>
-      </a>
+      {% if page.next.url %}
+        {% assign next = page.next.url %}
+      {% else %}
+       {% assign next = site.projects[0] %}
+      {% endif %}
+        <a href="{{site.baseurl}}{{page.next.url}}">
+          <span>Next</span>
+          <i>
+            <svg class="icon i-32"><use xlink:href="/images/icons.svg#next" /></svg>
+          </i>
+        </a>
     </li>
   </ul>
 </nav>
