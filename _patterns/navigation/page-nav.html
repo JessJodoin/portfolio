@@ -1,7 +1,7 @@
 <nav>
   <ul class="page-nav">
     <li>
-      <a href="{{site.baseurl}}/projects/{{page.previous}}">
+      <a href="{{site.baseurl}}{{page.previous.url}}">
         <i>
           <svg class="icon i-32"><use xlink:href="/images/icons.svg#previous" /></svg>
         </i>
@@ -10,7 +10,7 @@
     </li>
 
     <li>
-      <a href="{{site.baseurl}}/projects/{{page.next}}">
+      <a href="{{site.baseurl}}{{page.next.url}}">
         <span>Next</span>
         <i>
           <svg class="icon i-32"><use xlink:href="/images/icons.svg#next" /></svg>
