@@ -1,0 +1,11 @@
+<div class="card-grid-section gutter push pad-t">
+  <div class="card-grid">
+
+    <h2 class="card-grid-h2 push-1-2">Work</h2>
+
+    {% for project in site.projects %}
+      {% pattern cards/project-card data=project %}
+    {% endfor %}
+
+  </div>
+</div>

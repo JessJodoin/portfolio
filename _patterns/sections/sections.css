@@ -91,6 +91,22 @@
   font-family: var(--font-secondary);
 }
 
+.card-grid-section {
+  max-width: 460px;
+  margin: 0 auto;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+}
+
+.card-grid-h2 {
+  grid-column: 1 / -1;
+  grid-row: 1;
+}
+
 @media only screen and (min-width: 38em) {
 
   .img-text-section,
@@ -178,6 +194,18 @@
   }
 
   .exp-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+@media only screen and (min-width: 910px) {
+
+  .card-grid-section {
+    max-width: 920px;
+  }
+
+  .card-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 

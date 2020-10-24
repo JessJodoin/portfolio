@@ -9,6 +9,7 @@
 }
 
 .card-content {
+  display: none;
   position: absolute;
   top: -15em;
   width: 100%;
@@ -38,6 +39,7 @@
 }
 
 .project-card-link:hover .card-content {
+  display: block;
   background-color: rgba(148, 210, 212, .9);
   color: var(--color-primary);
   top: 0;
