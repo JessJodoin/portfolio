@@ -90,7 +90,7 @@
 .card-grid {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 1rem;
+  grid-gap: .5rem;
 }
 
 .card-grid-h2 {
