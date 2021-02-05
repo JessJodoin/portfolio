@@ -13,25 +13,22 @@ patterns:
         example: "Hi! I'm Jess Jodoin."
       - name: parag1
         type: string
-        example: "I didn’t think I’d end up here, but boy am I happy I did. Art and all things craft-y have always been a huge part of my life."
+        example: "I didn’t think I’d end up here, but boy am I happy I did. Art has always been a huge part of my life. So, I figured it was easy, right? Art makes me happy, so that must be the path for me."
       - name: parag2
         type: string
-        example: "So, I figured it was easy, right? Just a simple point A to point B. Art makes me happy, so that must be the path for me."
+        example: "Well, I took a little detour (… but the scenic route wasn’t so bad). I went off to study Communications at UOttawa. I enjoyed it, but realized that this wasn't the career path for me."
       - name: parag3
         type: string
-        example: "Well, I took a little detour (… but the scenic route wasn’t so bad). I went off to UOttawa to study Communications. I really enjoyed it, but I realized after graduating that I this wasn't the career path for me."
+        example: "So, (and this is where is gets good!) I whipped up a portfolio and applied to the graphic design program at Algonquin College. And I haven’t looked back since."
       - name: parag4
-        type: string
-        example: "So, (and this is where is gets good!) I went out on a limb, whipped up a portfolio, and applied to the graphic design program at Algonquin College. And I haven’t looked back since."
-      - name: parag5
         type: string
         example: "Finally, I’m where I’m supposed to be (that’s here!). Creating fun and eye-catching designs that help you grow your business, and look good while doing it."
       - name: img
         type: image
-        example: "/images/my-photo.jpg"
+        example: "/images/line-drawing-portrait.svg"
       - name: alt
         type: string
-        example: "A professional photo of myself"
+        example: "A lineart illustrations of myself"
   final-thoughts-section:
     title: "Final Thoughts Section"
     description: |
