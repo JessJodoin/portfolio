@@ -1,11 +1,8 @@
-.project-card {
-  max-width: 420px;
-}
-
 .project-card-link {
   display: block;
   text-decoration: none;
   position: relative;
+  max-width: 420px;
 }
 
 .card-content {
@@ -14,10 +11,7 @@
   top: -15em;
   width: 100%;
   height: 100%;
-}
 
-.card-info {
-  max-width: 380px;
   padding: 2rem;
   margin: auto;
 }
@@ -44,5 +38,5 @@
   background-color: rgba(148, 210, 212, .9);
   color: var(--color-primary);
   top: 0;
-  transition: background-color .25s linear;
+  transition: background-color 1s ease linear;
 }

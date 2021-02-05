@@ -2,7 +2,14 @@
   background-color: var(--color-primary-light);
 }
 
-.header-nav,
+.header-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 1rem;
+}
+
 .page-nav {
   display: flex;
   flex-direction: row;
@@ -24,6 +31,10 @@
 .footer-links-social li {
   list-style-type: none;
   list-style-image: none;
+}
+
+.header-nav a {
+  padding: .5rem 3rem .6rem;
 }
 
 .header-nav a,
