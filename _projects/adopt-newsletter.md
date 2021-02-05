@@ -4,7 +4,6 @@ description: |
   This typography piece is a fun animal adoption newsletter for the Ottawa Humane Society providing information about the process of adoption and why you should adopt.
 project-type: "Typography"
 project-title: "OHS Pet Adoption Newsletter"
-timeframe: "3 weeks"
 mockup-1: "/images/adopt-newsletter-mockup-2.jpg"
 mockup1-alt: |
   This is a mockup image of the adoption newsletter. It is laying flat, angled to show in inner spreads. The image has a light background, and page 3 is in focus.

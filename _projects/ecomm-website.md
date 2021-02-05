@@ -2,9 +2,8 @@
 title: "eCommerce Website"
 description: |
   This web piece is a website design for a fictitious eCommerce company for Star Wars merch I designed, that I called PewPew.
-project-type: "Web Development"
+project-type: "Web, UI/UX"
 project-title: "eCommerce Website"
-timeframe: "14 weeks"
 mockup-1: "/images/ecomm-website-mockup-2.jpg"
 mockup1-alt: |
   This is a mockup image of the PewPew eCommerce website on small screens. The background is light, and neutral.

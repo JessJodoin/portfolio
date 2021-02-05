@@ -2,9 +2,8 @@
 title: "Animal Rescue Website"
 description: |
   This web piece is a re-brand/website redesign for a local animal rescue organization, Bytown Association for Rescued Kanines (BARK).
-project-type: "Web Development"
+project-type: "Web, UI/UX"
 project-title: "B.A.R.K. Website Redesign"
-timeframe: "3 weeks"
 mockup-1: "/images/animal-rescue-mockup-1.jpg"
 mockup1-alt: |
   This is a mockup image of the B.A.R.K website redesign on medium and small screens. The background is light, and neutral.
