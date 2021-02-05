@@ -39,12 +39,12 @@ sketches1-alt: |
   This is an image of the mid mapping/research for the OIAF posterzine design.
 sketches1-aria: |
   This is an image of the mid mapping/research for the OIAF posterzine design.
-sketches-2: "/images/oiaf-posterzine-sketches-1.png"
+sketches-2: "/images/oiaf-posterzine-sketches-1.jpg"
 sketches2-alt: |
   This is an image of the first iteration of sketches for the layout design.
 sketches2-aria: |
   This is an image of the first iteration of sketches for the layout design.
-sketches-3: "/images/oiaf-posterzine-sketches-2.png"
+sketches-3: "/images/oiaf-posterzine-sketches-2.jpg"
 sketches3-alt: |
   This is an image of the final iteration of sketches for the layout design.
 sketches3-aria: |

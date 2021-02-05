@@ -18,11 +18,11 @@ deliverables:
   - "Product illustrations, icons, and logo"
 goals: |
   My goals were to create a fun Star Wars themed website, that showcases the products well and creates foot-traffic to the eCommerce store. I also wanted to make use of my knowledge of JavaScript to make the website be responsive at all screen sizes.
-progress-1: "/images/ecomm-website-site-map.png"
+progress-1: "/images/ecomm-website-logo-sketches.jpg"
 progress1-alt: |
-  This is an image of the site map for the PewPew website.
+  This is an image of the logo sketches for the PewPew website.
 progress1-aria: |
-  This is an image of the site map for the PewPew website.
+  This is an image of the logo sketches for the PewPew website.
 progress-2: "/images/ecomm-website-logo.png"
 progress2-alt: |
   This is an image of the PewPew logo design.
