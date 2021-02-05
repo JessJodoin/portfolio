@@ -127,7 +127,7 @@ patterns:
         example: "2020"
       - name: job2
         type: string
-        example: "Web Dev/Design Teaching Assistant"
+        example: "Web Design TA"
       - name: corp2
         type: string
         example: " Algonquin College"

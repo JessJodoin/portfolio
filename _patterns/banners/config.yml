@@ -17,7 +17,7 @@ patterns:
         example: "About"
       - name: text
         type: string
-        example: "creating designs that engage the right people."
+        example: "and coding, cause who doesn't love coding!"
   contact-banner:
     title: "Contact Banner"
     description: |
@@ -51,7 +51,7 @@ patterns:
   img-banner:
     title: "Image Banner"
     description: |
-      This is an image banner. It onoly contains an image, and is found under the project piece banners on the case study pages.
+      This is an image banner. It only contains an image, and is found under the project piece banners on the case study pages.
     fields:
       - name: data
         type: object
