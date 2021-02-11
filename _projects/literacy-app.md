@@ -3,7 +3,7 @@ title: "Literacy App"
 description: |
   This UI/UX design project uses the Sustainable Development Goal 4.6, the right to achieve numeracy and literacy for all regardless of age, ethnicity, gender, etc.
 project-type: "UI/UX"
-project-title: "My Reading Buddy Interactive Literacy App"
+project-title: "Interactive Literacy App"
 mockup-1: "/images/literacy-app-mockup-1.jpg"
 mockup1-alt: |
   This is an image of multiple iPhone screens displaying various screens from the literacy app, My Reading Buddy.
