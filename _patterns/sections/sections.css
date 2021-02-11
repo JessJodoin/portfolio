@@ -215,6 +215,7 @@
 
   .img-overlap-section{
     grid-template-columns: repeat(2, 1fr);
+    align-items: center;
   }
 
   .img1-overlap {
