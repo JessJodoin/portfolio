@@ -18,7 +18,7 @@ So, (and this is where is gets good!) I went out on a limb, whipped up a portfol
 
 Finally, I’m where I’m supposed to be (that’s here!). Creating fun and eye-catching designs that help you grow your business, and look good while doing it. I want to create interesting designs that engage the right people (especially you!). And have fun doing it. I also want you to love the designs as much as I do!
 
-- **[hey@jessjodoin.ca](mailto:hey@jessjodoin.ca)**
+
 - [Instagram](https://www.instagram.com/jessjodoindesign/)
 - [Behance](https://www.behance.net/jessicajodoin)
 
